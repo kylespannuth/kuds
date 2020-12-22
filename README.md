@@ -1,5 +1,5 @@
-# Hopefully I make something cool here
-# Follow me on twitter @kylespannuth and let me know how you got to kuds.me because it's weird that you got here.
+# kuds.me
+> kyle's utility domain site
 
 Updates
 
