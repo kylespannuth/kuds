@@ -1,6 +1,14 @@
 # kuds.me
 > kyle's utility domain site
 
+Possible Utilities
+
+---
+
+* URL shortener
+* Content Delivery Network
+
+
 Updates
 
 ---
